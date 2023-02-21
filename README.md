@@ -1,1 +1,1 @@
-# Ivan-Menshov-Python-Data-Science-Numpy-Matplotlib-Scikit-learn
+# Данный репозиторий создан с целью обучения библеотекам Numpy, Pandas, Matplotlib, Scikit-learn.
